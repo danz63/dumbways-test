@@ -1,0 +1,7 @@
+.d-flex {
+  flex-wrap: wrap;
+}
+.card img {
+  /* max-height: 10rem; */
+  height: 18rem;
+}
